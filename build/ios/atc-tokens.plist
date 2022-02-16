@@ -1,0 +1,75 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!--
+  Do not edit directly
+  Generated on Wed, 16 Feb 2022 19:10:54 GMT
+-->
+<plist version="1.0">
+  <dict>
+    <key>ColorsBrandPrimaryPure</key>
+    </dict>
+      <string>#266200</string>
+    <key>ColorsBrandPrimary01</key>
+    </dict>
+      <string>#acdda7</string>
+    <key>ColorsBrandPrimary02</key>
+    </dict>
+      <string>#69c95f</string>
+    <key>ColorsBrandPrimary03</key>
+    </dict>
+      <string>#3c8633</string>
+    <key>ColorsBrandSecondaryPure</key>
+    </dict>
+      <string>#266200</string>
+    <key>ColorsBrandSecondary01</key>
+    </dict>
+      <string>#acdda7</string>
+    <key>ColorsBrandSecondary02</key>
+    </dict>
+      <string>#69c95f</string>
+    <key>ColorsBrandSecondary03</key>
+    </dict>
+      <string>#e55302</string>
+    <key>ColorsBrandHighlightPure</key>
+    </dict>
+      <string>#f97501</string>
+    <key>ColorsBrandHighlight01</key>
+    </dict>
+      <string>#ffdec1</string>
+    <key>ColorsBrandHighlight02</key>
+    </dict>
+      <string>#ffaf00</string>
+    <key>ColorsBrandHighlight03</key>
+    </dict>
+      <string>#e55302</string>
+    <key>ColorsBrandGraphic01</key>
+    </dict>
+      <string>#1bafe6</string>
+    <key>ColorsBrandGraphic02</key>
+    </dict>
+      <string>#b0c0fc</string>
+    <key>ColorsBrandGraphic03</key>
+    </dict>
+      <string>#002199</string>
+    <key>ColorsBrandGraphic04</key>
+    </dict>
+      <string>#18191b</string>
+    <key>ColorsBrandGraphic05</key>
+    </dict>
+      <string>#18191b</string>
+    <key>FontFamilyHighlight</key>
+    </dict>
+      <string>raleway,sans-serif</string>
+    <key>FontWeightRegular</key>
+    </dict>
+      <string>400</string>
+    <key>FontWeightSemibold</key>
+    </dict>
+      <string>600</string>
+    <key>FontWeightBold</key>
+    </dict>
+      <string>700</string>
+    
+  </dict>
+</plist>
