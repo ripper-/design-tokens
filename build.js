@@ -1,9 +1,10 @@
-const StyleDictionaryPackage = require('style-dictionary');
-const getStyleDictionaryConfig = require('./style-dictionary.config');
+const StyleDictionaryPackage = require('./configs/style-dictionary-package.config');
+const getStyleDictionaryConfig = require('./configs/style-dictionary.config');
+const brands = ['bs'];
 
+/* Build All StyleDictionary Platforms from Tailwind Config */
 console.log('Build started...');
 console.log('\n======================================');
-const brands = ['globals', 'atc', 'csf'];
 brands.forEach(brand => {
     StyleDictionaryPackage
         .extend(getStyleDictionaryConfig(brand))

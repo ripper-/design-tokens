@@ -4,32 +4,35 @@
   "description": "Design-Tokens with Style-Dictionary + Tailwind CSS",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "build": "node ./build.js",
-    "lint": "eslint --init",
-    "eslint:fix": "eslint ./ --fix"
+    "lint": "eslint ./ --fix"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ripper-/design-tokens.git"
   },
   "keywords": [
-    "DS"
+    "Design",
+    "System",
+    "Design System",
+    "DS",
+    "Tokens"
   ],
-  "author": "Bruno Severino",
-  "license": "ISC",
+  "author": "@ripper-",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/ripper-/design-tokens/issues"
   },
   "homepage": "https://github.com/ripper-/design-tokens#readme",
   "devDependencies": {
     "autoprefixer": "^10.4.2",
-    "eslint": "^8.9.0",
+    "eslint": "^8.31.0",
+    "eslint-config-google": "^0.14.0",
     "postcss": "^8.4.6",
-    "style-dictionary": "^3.1.1",
     "tailwindcss": "^3.0.19"
   },
   "dependencies": {
-    "lodash": "^4.17.21"
+    "lodash": "^4.17.21",
+    "style-dictionary": "^3.1.1"
   }
 }
